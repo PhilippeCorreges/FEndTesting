@@ -1,8 +1,7 @@
 {
-  "name": "angular-test-seed",
+  "name": "Tests for fun",
   "description": "Project to demostrate setting up Protractor, Grunt, Karma, and Angular",
   "version": "1.0.0",
-  "repository": "https://github.com/mknabe/angular-testing-starter",
   "dependencies": {
     "grunt": "~0.4.2"
   },
